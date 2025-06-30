@@ -6,5 +6,7 @@ Elaborato per il compito di analisi numerica composto da due file:
   - l’**oscillatore armonico**
   - un **problema stiff** con soluzione esatta nota
 
-Un ulteriore file è stato aggiunto al repository:
+Due file aggiuntivi sono stati aggiunti repository:
 - `Optimization Project.ipynb` notebook contenente gli esercizi 5.1, 14.15, 17.3 dal _Nocedal, J., & Wright, S. J. (1999) Numerical optimization_.
+- `numerical_opt_ex_colombi.PDF` file contenente gli esercizi 2.9, 3.7, 4.7, 12.18, 13.9, 15.3, 19.11 (a-c) dal medesimo volume.
+
